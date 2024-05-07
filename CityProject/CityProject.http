@@ -1,0 +1,6 @@
+@CityProject_HostAddress = http://localhost:5069
+
+GET {{CityProject_HostAddress}}/cityproject/
+Accept: application/json
+
+###
